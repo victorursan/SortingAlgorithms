@@ -7,6 +7,8 @@ from test.sorting_algorithms.algorithms.InsertionSortRecursiveTestCase import In
 from test.sorting_algorithms.algorithms.InsertionSortTestCase import InsertionSortTestCase
 from test.sorting_algorithms.algorithms.MergeSortTestCase import MergeSortTestCase
 from test.sorting_algorithms.algorithms.QuickSortTestCase import QuickSortTestCase
+from test.sorting_algorithms.algorithms.SelectionSortTestCase import SelectionSortTestCase
+from test.sorting_algorithms.algorithms.ShakeSortTestCase import ShakeSortTestCase
 
 
 def suite():
@@ -17,4 +19,6 @@ def suite():
   suites.addTests(unittest.TestLoader().loadTestsFromTestCase(InsertionSortRecursiveTestCase))
   suites.addTests(unittest.TestLoader().loadTestsFromTestCase(MergeSortTestCase))
   suites.addTests(unittest.TestLoader().loadTestsFromTestCase(QuickSortTestCase))
+  suites.addTests(unittest.TestLoader().loadTestsFromTestCase(SelectionSortTestCase))
+  suites.addTests(unittest.TestLoader().loadTestsFromTestCase(ShakeSortTestCase))
   return suites
