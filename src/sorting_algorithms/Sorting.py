@@ -1,6 +1,6 @@
 __author__ = 'victor'
 
-from sorting_algorithms.algorithms.Algorithms import Algorithms
+from src.sorting_algorithms.algorithms.Algorithms import Algorithms
 
 
 class Sorting(object):

@@ -1,6 +1,6 @@
 __author__ = 'victor'
 
-from sorting_algorithms.GenericSort import GenericSort
+from src.sorting_algorithms.GenericSort import GenericSort
 
 
 class InsertionSortRecursive(GenericSort):
