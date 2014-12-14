@@ -4,5 +4,5 @@ from enum import unique, Enum
 
 
 @unique
-class Algorithm(Enum):
+class Algorithms(Enum):
     pass
