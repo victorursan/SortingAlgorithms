@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74a89d92-8e7a-4153-85b4-c678e7d1e25b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sorting_algorithms/algorithms/Algorithms.py" afterPath="$PROJECT_DIR$/src/sorting_algorithms/algorithms/Algorithms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sorting_algorithms/Sorting.py" afterPath="$PROJECT_DIR$/src/sorting_algorithms/Sorting.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SortingAlgorithms.iml" afterPath="$PROJECT_DIR$/.idea/SortingAlgorithms.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SortingAlgorithms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,16 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GenericSort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/GenericSort.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,24 +43,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test/test_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14851485" vertical-offset="0" max-vertical-offset="909">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding>
                 <element signature="e#23#38#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_algorithms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test/sorting_algorithms/algorithms/test_algorithms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -88,11 +65,71 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="BubbleSort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/BubbleSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/QuickSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2970297" vertical-offset="0" max-vertical-offset="909">
+              <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleSort2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/BubbleSort2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertionSort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/InsertionSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertionSortRecursive.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/InsertionSortRecursive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Algorithms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/Algorithms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/MergeSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -108,10 +145,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/main.py" />
         <option value="$PROJECT_DIR$/src/sorting_algorithms/GenericSort.py" />
-        <option value="$PROJECT_DIR$/src/sorting_algorithms/algorithms/Algorithms.py" />
         <option value="$PROJECT_DIR$/src/sorting_algorithms/Sorting.py" />
         <option value="$PROJECT_DIR$/test/test/sorting_algorithms/algorithms/test_algorithms.py" />
         <option value="$PROJECT_DIR$/test/test/test_main.py" />
+        <option value="$PROJECT_DIR$/src/sorting_algorithms/algorithms/BubbleSort.py" />
+        <option value="$PROJECT_DIR$/src/sorting_algorithms/algorithms/InsertionSort.py" />
+        <option value="$PROJECT_DIR$/src/sorting_algorithms/algorithms/QuickSort.py" />
+        <option value="$PROJECT_DIR$/src/sorting_algorithms/algorithms/MergeSort.py" />
+        <option value="$PROJECT_DIR$/src/sorting_algorithms/algorithms/BubbleSort2.py" />
+        <option value="$PROJECT_DIR$/src/sorting_algorithms/algorithms/InsertionSortRecursiv.py" />
+        <option value="$PROJECT_DIR$/src/sorting_algorithms/algorithms/Algorithms.py" />
       </list>
     </option>
   </component>
@@ -275,6 +318,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sorting_algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SortingAlgorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SortingAlgorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sorting_algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -560,11 +625,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/Algorithms.py">
+    <entry file="file://$PROJECT_DIR$/test/test/sorting_algorithms/algorithms/test_algorithms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test/test_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -584,21 +659,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test/sorting_algorithms/algorithms/test_algorithms.py">
+    <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/Algorithms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test/test_main.py">
+    <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/BubbleSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14851485" vertical-offset="0" max-vertical-offset="909">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#38#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/BubbleSort2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/InsertionSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/InsertionSortRecursive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting_algorithms/algorithms/QuickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2970297" vertical-offset="0" max-vertical-offset="909">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>
