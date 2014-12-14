@@ -8,4 +8,7 @@ class ShakeSort(GenericSort):
     super().__init__(col, key, reverse)
 
   def sort(self):
-    pass
+    self.col[:] = self.__shake_sort(self.col)
+
+  def __shake_sort(self, l):
+    return l
