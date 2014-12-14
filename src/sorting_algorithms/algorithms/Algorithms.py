@@ -1,6 +1,7 @@
 __author__ = 'victor'
 
 from enum import unique, Enum
+
 from src.sorting_algorithms.algorithms.BubbleSort import BubbleSort
 from src.sorting_algorithms.algorithms.BubbleSort2 import BubbleSort2
 from src.sorting_algorithms.algorithms.InsertionSort import InsertionSort

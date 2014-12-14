@@ -8,12 +8,12 @@ class InsertionSortRecursive(GenericSort):
     super().__init__(col, key, reverse)
 
   def sort(self):
-    self.col[:] = self.__ins_sort(self.col)
+    self.col[:] = self.__ins_sort_rec(self.col)
 
-  def __ins_sort(self, l):
+  def __ins_sort_rec(self, l):
     if len(l) == 0:
       return []
-    return self.__insert_elem(l[0], self.__ins_sort(l[1:]))
+    return self.__insert_elem(l[0], self.__ins_sort_rec(l[1:]))
 
   def __insert_elem(self, elem, l):
     if len(l) == 0:

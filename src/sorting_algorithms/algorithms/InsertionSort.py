@@ -8,10 +8,14 @@ class InsertionSort(GenericSort):
     super().__init__(col, key, reverse)
 
   def sort(self):
-    for i in range(1, len(self.col)):
-      p = self.col[i]
+    self.col[:] = self.__ins_sort(self.col)
+
+  def __ins_sort(self, l):
+    for i in range(1, len(l)):
+      p = l[i]
       j = i - 1
-      while j >= 0 and self._in_order(p, self.col[j]):
-        self.col[j + 1] = self.col[j]
+      while j >= 0 and self._in_order(p, l[j]):
+        l[j + 1] = l[j]
         j -= 1
-      self.col[j + 1] = p
+      l[j + 1] = p
+    return l

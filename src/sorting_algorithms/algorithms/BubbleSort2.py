@@ -8,13 +8,17 @@ class BubbleSort2(GenericSort):
     super().__init__(col, key, reverse)
 
   def sort(self):
+    self.col[:] = self.__bubble_sort_2(self.col)
+
+  def __bubble_sort_2(self, l):
     k = 0
     while True:
       sw = True
       k += 1
-      for i in range(len(self.col) - k):
-        if not self._in_order(self.col[i], self.col[i + 1]):
-          self.col[i], self.col[i + 1] = self.col[i + 1], self.col[i]
+      for i in range(len(l) - k):
+        if not self._in_order(l[i], l[i + 1]):
+          l[i], l[i + 1] = l[i + 1], l[i]
           sw = False
       if sw:
         break
+    return l

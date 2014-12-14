@@ -1,6 +1,7 @@
 __author__ = 'victor'
 
 import unittest
+
 from src.sorting_algorithms.Sorting import Sorting
 from src.sorting_algorithms.algorithms.Algorithms import Algorithms
 

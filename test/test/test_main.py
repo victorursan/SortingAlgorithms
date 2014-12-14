@@ -1,8 +1,8 @@
 __author__ = 'victor'
 
 import unittest
-from test.sorting_algorithms.algorithms import test_algorithms
 
+from test.sorting_algorithms.algorithms import test_algorithms
 
 all_suites = unittest.TestSuite([test_algorithms.suite()])
 
